@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>tugas 1 SC WEB-UKM I&K</title>
+        
+        <script>
+            alert("Selamat Datang") ;
+        </script>
+    </head>
+    <style>
+        body{
+            background: rgb(189, 101, 0);
+            color: rgb(255, 255, 255);
+        }
+
+        body a{
+            color: rgb(255, 255, 255);
+        }
+    </style>
+    <body>
+        <img src="https://ukmik.org/assets/img/depan/0eef3ef2a636507b587afe6499c38dec.png">
+        <hgroup name="title-websete">
+            <h1>Didik Kurniawan</h1>
+            <h4>Informatics Student at STMIK AKAKOM Yogyakarta</h4>
+        </hgroup>
+
+        <hr>
+
+        <h4>Introduction</h4>
+        <p>Assalamu alaikum, WR. WB. Allow me to introduce myself, my name is Didik Kurniawan
+        you can call me Didik. I come from Yogyakarta city and I live in Patuk, Gunung Kidul
+        and I was born on March 18, 2003 in Gunung Kidul. I live with my parents.
+        I'm two brothers and I'm the last kid. Okay, I guess that's all about me. Thanks for reading.
+        Wassalamu alaikum,WB. WB.</p>
+
+        <hr>
+        
+        <h4>kontak saya</h4>
+        <ul>
+            <li>Wa       : 083861423694</li>
+            <li>email    : didik2584@gmail.com</li>
+            <li>Telegram : 083861423694</li>
+        </ul>
+
+        <hr>
+
+        <footer>
+            copyright &copy; 2021 - Didik Kurniawan
+        </footer>
+    </body>
+</html>
